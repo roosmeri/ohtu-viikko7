@@ -1,0 +1,13 @@
+Ohtu 2017
+Laskari 7, tehtävä 4
+
+	Valittu artikkeli on Martin Fowlerin Is Design Dead?. Tekstissään Fowler puolustaa suunnittelumallien, 
+	etukäteen suunnittelun, akkitehtuurimallien sekä UML kaavioiden kuulumista XP ohjelmistokehitysprosessiin.
+	Fowler avaa menetelmien sopivuutta XP:hen ja niihin suhtautumista ohjelmistotuotannon maailmassa. 
+	”Metafora” -osuuden Fowler ohittaa pintaraapaisulla. Fowler esittää jokaisesta puolustamastaan tahosta 
+	esimerkkien kera neuvoja, kuinka niitä hänen mukaansa tulisi hyödyntää XP:ssä.
+	Fowler käy artikkelissaan sen pituudella hieman läpi ohjelmoijien ja suunnittelijoiden suhteita ja suhtautumista 
+	toisiinsa erilaisissa tilanteissa ja mainitsee suhteen olevan vähintäänkin mielenkiintoinen.
+	Fowler kuvaa evolutionaarisen suunnittelun suurimmaksi ongelmaksi haluttomuuden suunnitella kunnolla. 
+	Artikkelissaan hän myös mainitsee, että suunnittelun tapahtuminen ei ole välttämätöntä, joten sitä ei aina edes huomaa. 
+	Fowlerin mukaan suunnittelu ei kuitenkaan ole kuollut.
